@@ -55,10 +55,10 @@ To get the project up and running locally on your machine, follow these steps:
 4. Run the project:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-Visit `http://localhost:3000` in your browser to see the website in action!
+Visit `http://localhost:5173` in your browser to see the website in action!
 
 ---
 
