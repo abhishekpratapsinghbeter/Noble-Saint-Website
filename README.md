@@ -26,7 +26,7 @@ The website includes animated 3D effects, a testimonial carousel, smooth transit
 
 ## 📸 Demo
 
-![Gym Website Preview](https://noblesaintgym.netlify.app/)
+Check out the live website here: [Noble Saint Gym Website](https://noblesaintgym.netlify.app/)
 
 ---
 
